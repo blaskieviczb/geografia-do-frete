@@ -1,4 +1,4 @@
-   data/*
-   !data/.gitkeep
-   !data/README.md
-   *.csv
+data/*
+!data/.gitkeep
+!data/README.md
+*.csv
