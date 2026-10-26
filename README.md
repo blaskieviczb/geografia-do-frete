@@ -4,8 +4,6 @@
 
 > 🚧 **Status: em desenvolvimento.** Este repositório está sendo construído em etapas. O checklist no final mostra o andamento.
 
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL-336791) ![Power BI](https://img.shields.io/badge/BI-Power%20BI-F2C811)
-
 ## Problema de negócio
 
 Uma plataforma de e-commerce atende clientes em todas as regiões do Brasil, mas não tem uma visão integrada de **onde os custos de frete e os problemas de entrega coincidem com experiências de compra piores**. Sem essa visão, é difícil decidir onde concentrar esforços de melhoria logística.
@@ -72,4 +70,4 @@ geografia-do-frete/
 
 ## Autoria
 
-[Seu nome] · [Link do LinkedIn]
+Bruna Stall Blaskievicz · www.linkedin.com/in/bruna-blaskievicz2607
