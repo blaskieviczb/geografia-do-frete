@@ -60,7 +60,7 @@ geografia-do-frete/
 ## Andamento
 
 - [x] Etapa 0: organização do repositório
-- [ ] Etapa 1: ingestão e qualidade dos dados
+- [X] Etapa 1: ingestão e qualidade dos dados
 - [ ] Etapa 2: dimensão territorial (IBGE)
 - [ ] Etapa 3: métricas logísticas
 - [ ] Etapa 4: análise das hipóteses
