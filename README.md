@@ -70,4 +70,4 @@ geografia-do-frete/
 
 ## Autoria
 
-Bruna Stall Blaskievicz · www.linkedin.com/in/bruna-blaskievicz2607
+Bruna Stall Blaskievicz · www.linkedin.com/in/brunablaskievicz
